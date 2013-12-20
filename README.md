@@ -4,3 +4,5 @@ three-color
 ===========
 
 three.js - color
+
+[base here](https://github.com/nomilous/three)
